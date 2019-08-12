@@ -4,7 +4,7 @@ MAINTAINER okamotchan
 RUN apt-get update && apt-get install -y \
   gcc \
   g++ \
-  make \ 
+  make \
   git \
-  binutils \ 
+  binutils \
   libc6-dev \
